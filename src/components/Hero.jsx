@@ -11,7 +11,7 @@ const Hero = () => {
             />
             <button
                 type='button'
-                onClick={()=>window.open('https://github.com/AdityaPS11')}
+                onClick={()=>window.open('https://github.com/wb-ts/Article-Sumz-openAI')}
                 className='black_btn'
                 >
                   GitHub
